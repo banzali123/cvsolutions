@@ -18,8 +18,28 @@ grid-template-areas:"grid1 grid2"; grid-gap:1rem;}
 .dnavideo{width:700px;}
 
 
-.whatwedo{height:1000px;}
+.whatwedo{height:500px;}
+.whatwedo-con{align-items:center;height:500px;  margin-top:50px;text-align:center;display:flex;justify-content:space-around; }
+.whatwedoo{width:400px;height:400px;margin:5px; padding:0px 60px 0px 60px;}
+.whatwedo-con img{ height:200px; width:200px;  }
 .whatwedo p{text-align:center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width:1400px){.nav-links{width:70%;}}
 @media screen and (max-width:950px){
 .nav-links{transition:0.5s;height:300px;background-color:rgb(221, 216, 216);line-height:60px;display:block; position:absolute; text-align:center; width:100%; top:80px;}
