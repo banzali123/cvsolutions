@@ -25,10 +25,29 @@
 </div>
 <!--cover photo -->
 <div class="coverphoto"></div>
-</div>
+
 <!--whycv?-->
+<div class="whycv">
+<div>
+<h1>WHY C.V. SOLUTIONS?</h1>
+<p>Despite being a relatively young company, CVSI personnel have the knowledge, expertise and experience.
+was established and duly registered with the Securities and Exchange Commission on 26 April 2001 as a 100% Filipino-owned company involved in the manufacture and marketing of Specialty Chemical Programs and Services, and Specialty Projects and Materials to various industries.</p>
+</div>
+<div>
+<video class="dnavideo" controls>
+					<source src="videos/dna.mp4" type="video/mp4">
+				</video>
+</div>
+</div>
+<div class="whatwedo">
+<p class="why">What We do & <span class="why1"> We Do It Well</span></p>
+</div>
 
 
+
+
+
+</div>
 <script src="index.js"></script> 
 </body>
 </html>
