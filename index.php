@@ -64,13 +64,29 @@
                 </div>
             </div>
         </div>
+
+    <div class="events">
+    <div class="a"><img src="images/corporate1.png"></div>  
+    <div class="b"><img src="images/corporate2.png"></div>
+    <div class="c"><img src="images/corporate3.png"></div>
+    </div>
+
+    <div class="headlines">
+    <h1>HEADLINES</h1>
+    <ul>
+    <li><p>MAY 12<br><a href="">2021 - Automation Anywhere Imagine</a> </span></p></li>
+    <li><p>MAY 14<br><a href="">Limited Board Declares Quarterly Cash Dividend</a></span></p></li>
+    <li><p>MAY 21<br><a href="">Fast Company Partner to Digitally Transform a World Changing Ideas Honoree</a></span></p></li>        
+    <li><p>JUNE 06<br><a href="">2021 - Automation Anywhere Imagine</a></span></p></li>
+    <li><p>JUNE 12<br><a href="">2021 - Automation Anywhere Imagine</a></span></p></li>
+    </ul>
+
     </div>
 
 
 
 
-
-
+    </div>
     <script src="index.js"></script>
 </body>
 
